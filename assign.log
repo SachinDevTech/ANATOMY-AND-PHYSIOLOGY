@@ -1,0 +1,234 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.15)  15 SEP 2022 19:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./assign.tex
+(assign.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-07-04>
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks17
+\footnotemargin=\dimen141
+\@outputbox@depth=\dimen142
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+)
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+)
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count193
+\calc@Bcount=\count194
+\calc@Adimen=\dimen143
+\calc@Bdimen=\dimen144
+\calc@Askip=\skip63
+\calc@Bskip=\skip64
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count195
+\calc@Cskip=\skip65
+)
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen145
+\ESO@tempdimb=\dimen146
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex-dev/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+))
+\PageFrameTopMargin=\skip66
+\PageFrameBottomMargin=\skip67
+\PageFrameLeftMargin=\skip68
+\PageFrameRightMargin=\skip69
+\Page@FrameHeight=\skip70
+\Page@FrameWidth=\skip71
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/l3backend\l3backend-pdftex.
+def
+File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box51
+)
+
+LaTeX Warning: Unused global option(s):
+    [12pts].
+
+(assign.aux)
+\openout1 = `assign.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen147
+\scratchbox=\box52
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen148
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/epstopdf-pkg\epstopdf-base.
+sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Sachin Kumar\Desktop\New folder\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package ragged2e Info: ABD: executing \RaggedRight on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 37.
+<Images//aaaa.jpg, id=1, 256.96pt x 256.96pt>
+File: Images//aaaa.jpg Graphic file (type jpg)
+<use Images//aaaa.jpg>
+Package pdftex.def Info: Images//aaaa.jpg  used on input line 40.
+(pdftex.def)             Requested size: 236.40215pt x 236.40215pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 44.
+[1
+
+{C:/Users/Sachin Kumar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Ima
+ges//aaaa.jpg>]
+<Images//ana.jpg, id=10, 1564.84625pt x 585.18625pt>
+File: Images//ana.jpg Graphic file (type jpg)
+<use Images//ana.jpg>
+Package pdftex.def Info: Images//ana.jpg  used on input line 59.
+(pdftex.def)             Requested size: 344.26724pt x 128.74136pt.
+ [2
+
+ <./Images//ana.jpg>] [3]
+<Images//feedback.jpg, id=19, 475.7775pt x 266.9975pt>
+File: Images//feedback.jpg Graphic file (type jpg)
+<use Images//feedback.jpg>
+Package pdftex.def Info: Images//feedback.jpg  used on input line 122.
+(pdftex.def)             Requested size: 237.88815pt x 133.49841pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 140.
+ [4 <./Images//feedback.jpg>]
+(assign.aux) ) 
+Here is how much of TeX's memory you used:
+ 2284 strings out of 478338
+ 37296 string characters out of 2838519
+ 342074 words of memory out of 3000000
+ 20718 multiletter control sequences out of 15000+600000
+ 474771 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,11n,62p,621b,295s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\Sachin Kumar\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\tcrm1000.pk><C:/Users/Sachin Kumar/Desktop/New folder/fonts/type
+1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Sachin Kumar/Desktop/New folder/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Sachin Kumar/Desktop/New folder/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Sachin Kumar/Desktop/New fol
+der/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Sachin Kumar/Desktop/New
+ folder/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on assign.pdf (4 pages, 352062 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
